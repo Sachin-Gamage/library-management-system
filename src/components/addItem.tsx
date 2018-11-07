@@ -5,7 +5,7 @@ export class AddItem extends React.Component<{},{}>{
         return(
             <div>
                 <div className="row">
-                    <div className="col-5">
+                    <div className="col">
                         <label>ISBN</label>
                     </div>
                     <div className="col-75">
